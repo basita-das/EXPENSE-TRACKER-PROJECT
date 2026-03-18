@@ -4,18 +4,6 @@ A personal expense tracking web app built with React + Vite, themed after [Marke
 
 ---
 
-## 🚀 Live Demo
-
-> Deploy on Vercel or Netlify and paste your URL here.
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of dark mode and light mode here.
-
----
-
 ## ✨ Features
 
 - **Add Expenses** — Log expenses with a name, amount, and category
